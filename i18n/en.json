@@ -1,0 +1,112 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "ogLocale": "en_US",
+  "languageName": "English",
+  "meta": {
+    "title": "FightWake: UFC & MMA Fight Alarm for Android",
+    "description": "Wake up right before the UFC fight you care about. FightWake follows the card live and rings when your bout is close. No results, no spoilers.",
+    "ogImageAlt": "FightWake: sleep through the prelims, wake up for your fight."
+  },
+  "nav": {
+    "skip": "Skip to content",
+    "how": "How it works",
+    "compare": "Free vs Pro",
+    "faq": "FAQ",
+    "language": "Language"
+  },
+  "play": {
+    "getItOn": "Get it on",
+    "label": "Get FightWake on Google Play"
+  },
+  "hero": {
+    "kicker": "UFC & MMA fight alarm for Android",
+    "lineA": "Sleep through the prelims.",
+    "lineB": "Wake up for your fight.",
+    "lede": "FightWake follows live MMA fight cards bout by bout and wakes you shortly before the fight you picked. No results, no spoilers.",
+    "secondary": "See how it works",
+    "proof": ["Rings through silent mode", "Spoiler-free", "Free to download"]
+  },
+  "phone": {
+    "label": "FightWake showing a fight card with an alarm set on the main event",
+    "title": "Fight night",
+    "live": "Live",
+    "earlyPrelims": "Early Prelims",
+    "prelims": "Prelims",
+    "mainCard": "Main Card",
+    "done": "Finished",
+    "rounds3": "3 rounds",
+    "mainEvent": "Main Event · 5 rounds",
+    "bantamweight": "Bantamweight",
+    "lightweight": "Lightweight",
+    "welterweight": "Welterweight",
+    "alarm": "Alarm · 1 bout before",
+    "status": "Alarm set. Go to sleep."
+  },
+  "how": {
+    "title": "How it works",
+    "intro": "Fight cards run long and nobody knows when the main event will start. FightWake watches the card so you don't have to.",
+    "steps": [
+      { "title": "Pick a bout", "body": "Open any upcoming fight card and tap the fight you want to see." },
+      { "title": "Choose when", "body": "Get woken when the bout starts, when the fighters walk out, or one bout before." },
+      { "title": "Go to sleep", "body": "We follow the card live and wake you when it's time, whether the fights before yours end early or go the distance." }
+    ]
+  },
+  "features": {
+    "title": "Built for late-night main events",
+    "pro": "Pro",
+    "all": "Free and Pro",
+    "items": [
+      { "tier": "pro", "title": "A real alarm", "body": "A full-screen alarm that rings through silent mode and Do Not Disturb, even on a locked phone." },
+      { "tier": "all", "title": "No spoilers", "body": "You never see a result. Watch the fight live or catch the replay without knowing who won." },
+      { "tier": "pro", "title": "Backup alarm", "body": "If your phone loses signal overnight, a backup alarm still rings at the estimated time." },
+      { "tier": "all", "title": "Follows the card live", "body": "Quick finishes, decisions and canceled bouts all move your alarm. If your fight is canceled, we tell you." },
+      { "tier": "all", "title": "Free notifications", "body": "Get a notification when any bout starts, main event included, on every card." },
+      { "tier": "all", "title": "Five languages", "body": "English, Spanish, French, Russian and Hebrew. Fighter names stay as you know them." }
+    ]
+  },
+  "compare": {
+    "title": "Free vs Pro",
+    "intro": "Free notifications for every bout. Pro adds a real wake-up alarm.",
+    "free": "Free",
+    "pro": "Pro",
+    "rows": [
+      ["How you're woken", "Notification", "Full-screen alarm"],
+      ["When you hear", "When the bout starts", "At the start, at walkouts, or 1 bout before"],
+      ["Rings through silent mode", "No", "Yes"],
+      ["Backup alarm if offline", "No", "Yes"],
+      ["Events", "Unlimited", "Unlimited"]
+    ],
+    "plans": "Pro plans",
+    "eventPass": "Event Pass",
+    "eventPassBody": "Pro alarms for every bout on one fight card.",
+    "annual": "Annual",
+    "monthly": "Monthly",
+    "lifetime": "Lifetime",
+    "lifetimeBody": "Pay once, Pro forever.",
+    "perYear": "per year",
+    "perMonth": "per month",
+    "oneTime": "one time"
+  },
+  "faq": {
+    "title": "Questions",
+    "items": [
+      { "q": "What time does the UFC main event start?", "a": "Nobody can say exactly. The main event starts when every fight before it is over, so a night of quick finishes can bring it forward by an hour and a night of decisions can push it back. FightWake follows the card live and wakes you based on what actually happens." },
+      { "q": "How do I wake up for a UFC fight without seeing the results?", "a": "Set an alarm for the bout in FightWake. The app only tracks which fight is on, never who won, so you can wake up and watch without spoilers." },
+      { "q": "Will the alarm ring if my phone is on silent?", "a": "Pro alarms ring through silent mode and Do Not Disturb. Free notifications follow your phone's sound settings and can arrive a little late while the phone is asleep." },
+      { "q": "What if the fight before mine ends early?", "a": "Your alarm moves with the card. If you chose one bout before, it rings as soon as that bout ends, whether it lasted 30 seconds or went to the scorecards." },
+      { "q": "Is FightWake free?", "a": "Yes. Notifications are free and unlimited on every bout. Pro adds the full-screen wake-up alarm, and an Event Pass unlocks it for a single card." },
+      { "q": "Which events does it cover?", "a": "UFC events, including numbered cards and Fight Nights." },
+      { "q": "Does it work on iPhone?", "a": "Not yet. FightWake is Android only for now." }
+    ]
+  },
+  "final": {
+    "title": "Next fight night, get some sleep.",
+    "body": "Set the alarm, close your eyes, and we'll wake you for the fight."
+  },
+  "footer": {
+    "disclaimer": "FightWake is not affiliated with or endorsed by the UFC or any other promotion.",
+    "privacy": "Privacy policy",
+    "contact": "Contact"
+  }
+}

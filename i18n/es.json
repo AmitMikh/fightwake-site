@@ -1,0 +1,112 @@
+{
+  "lang": "es",
+  "dir": "ltr",
+  "ogLocale": "es_ES",
+  "languageName": "Español",
+  "meta": {
+    "title": "FightWake: alarma para peleas de UFC y MMA en Android",
+    "description": "Despiértate justo antes de la pelea de UFC que no te quieres perder. FightWake sigue la cartelera en vivo y suena cuando se acerca tu pelea. Sin spoilers.",
+    "ogImageAlt": "FightWake: duerme durante las preliminares y despiértate para tu pelea."
+  },
+  "nav": {
+    "skip": "Ir al contenido",
+    "how": "Cómo funciona",
+    "compare": "Gratis vs Pro",
+    "faq": "Preguntas",
+    "language": "Idioma"
+  },
+  "play": {
+    "getItOn": "Disponible en",
+    "label": "Descarga FightWake en Google Play"
+  },
+  "hero": {
+    "kicker": "Alarma para peleas de UFC y MMA en Android",
+    "lineA": "Duerme durante las preliminares.",
+    "lineB": "Despiértate para tu pelea.",
+    "lede": "FightWake sigue en vivo las carteleras de MMA, pelea a pelea, y te despierta justo antes de la que elegiste. Sin resultados ni spoilers.",
+    "secondary": "Cómo funciona",
+    "proof": ["Suena en modo silencio", "Sin spoilers", "Descarga gratis"]
+  },
+  "phone": {
+    "label": "FightWake mostrando una cartelera con una alarma en la pelea estelar",
+    "title": "Noche de peleas",
+    "live": "En vivo",
+    "earlyPrelims": "Preliminares tempranas",
+    "prelims": "Preliminares",
+    "mainCard": "Cartelera estelar",
+    "done": "Terminada",
+    "rounds3": "3 asaltos",
+    "mainEvent": "Pelea estelar · 5 asaltos",
+    "bantamweight": "Peso gallo",
+    "lightweight": "Peso ligero",
+    "welterweight": "Peso wélter",
+    "alarm": "Alarma · una pelea antes",
+    "status": "Alarma puesta. A dormir."
+  },
+  "how": {
+    "title": "Cómo funciona",
+    "intro": "Las carteleras se alargan y nadie sabe cuándo empezará la pelea estelar. FightWake sigue la cartelera por ti.",
+    "steps": [
+      { "title": "Elige una pelea", "body": "Abre cualquier cartelera próxima y toca la pelea que quieres ver." },
+      { "title": "Elige cuándo", "body": "Te despertamos cuando empiece la pelea, cuando salgan los peleadores o una pelea antes." },
+      { "title": "Vete a dormir", "body": "Seguimos la cartelera en vivo y te despertamos a tiempo, tanto si las peleas anteriores terminan rápido como si llegan a las tarjetas." }
+    ]
+  },
+  "features": {
+    "title": "Hecha para las estelares de madrugada",
+    "pro": "Pro",
+    "all": "Gratis y Pro",
+    "items": [
+      { "tier": "pro", "title": "Una alarma de verdad", "body": "Alarma a pantalla completa que suena en modo silencio y No molestar, incluso con el teléfono bloqueado." },
+      { "tier": "all", "title": "Sin spoilers", "body": "Nunca ves un resultado. Mira la pelea en vivo o la repetición sin saber quién ganó." },
+      { "tier": "pro", "title": "Alarma de respaldo", "body": "Si tu teléfono pierde la señal por la noche, una alarma de respaldo suena a la hora estimada." },
+      { "tier": "all", "title": "Sigue la cartelera en vivo", "body": "Finales rápidos, decisiones y peleas canceladas mueven tu alarma. Si cancelan tu pelea, te avisamos." },
+      { "tier": "all", "title": "Notificaciones gratis", "body": "Recibe una notificación cuando empiece cualquier pelea, incluida la estelar, en todas las carteleras." },
+      { "tier": "all", "title": "Cinco idiomas", "body": "Español, inglés, francés, ruso y hebreo. Los nombres de los peleadores se quedan como los conoces." }
+    ]
+  },
+  "compare": {
+    "title": "Gratis vs Pro",
+    "intro": "Notificaciones gratis para todas las peleas. Pro añade una alarma de verdad.",
+    "free": "Gratis",
+    "pro": "Pro",
+    "rows": [
+      ["Cómo te despierta", "Notificación", "Alarma a pantalla completa"],
+      ["Cuándo te enteras", "Cuando empieza la pelea", "Al empezar, al salir los peleadores o una pelea antes"],
+      ["Suena en modo silencio", "No", "Sí"],
+      ["Alarma de respaldo sin conexión", "No", "Sí"],
+      ["Eventos", "Sin límite", "Sin límite"]
+    ],
+    "plans": "Planes Pro",
+    "eventPass": "Pase de evento",
+    "eventPassBody": "Alarmas Pro para todas las peleas de una cartelera.",
+    "annual": "Anual",
+    "monthly": "Mensual",
+    "lifetime": "De por vida",
+    "lifetimeBody": "Pagas una vez y eres Pro para siempre.",
+    "perYear": "al año",
+    "perMonth": "al mes",
+    "oneTime": "pago único"
+  },
+  "faq": {
+    "title": "Preguntas",
+    "items": [
+      { "q": "¿A qué hora empieza la pelea estelar de UFC?", "a": "Nadie lo sabe con exactitud. La estelar empieza cuando terminan todas las peleas anteriores, así que una noche de finales rápidos puede adelantarla una hora y una noche de decisiones puede retrasarla. FightWake sigue la cartelera en vivo y te despierta según lo que pasa de verdad." },
+      { "q": "¿Cómo me despierto para una pelea de UFC sin ver los resultados?", "a": "Pon una alarma para la pelea en FightWake. La app solo sigue qué pelea está en curso, nunca quién ganó, así que puedes despertarte y verla sin spoilers." },
+      { "q": "¿Suena la alarma si el teléfono está en silencio?", "a": "Las alarmas Pro suenan en modo silencio y No molestar. Las notificaciones gratis siguen el sonido de tu teléfono y pueden llegar con algo de retraso si el teléfono está en reposo." },
+      { "q": "¿Qué pasa si la pelea anterior a la mía termina antes?", "a": "Tu alarma se mueve con la cartelera. Si elegiste una pelea antes, suena en cuanto esa pelea termina, tanto si duró 30 segundos como si llegó a las tarjetas." },
+      { "q": "¿FightWake es gratis?", "a": "Sí. Las notificaciones son gratis y sin límite en todas las peleas. Pro añade la alarma a pantalla completa, y un pase de evento la activa para una sola cartelera." },
+      { "q": "¿Qué eventos cubre?", "a": "Eventos de UFC, incluidos los numerados y las Fight Night." },
+      { "q": "¿Funciona en iPhone?", "a": "Todavía no. Por ahora FightWake es solo para Android." }
+    ]
+  },
+  "final": {
+    "title": "La próxima noche de peleas, duerme tranquilo.",
+    "body": "Pon la alarma, cierra los ojos y te despertamos para la pelea."
+  },
+  "footer": {
+    "disclaimer": "FightWake no está afiliada ni respaldada por UFC ni por ninguna otra promoción.",
+    "privacy": "Política de privacidad",
+    "contact": "Contacto"
+  }
+}
