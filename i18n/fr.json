@@ -1,0 +1,112 @@
+{
+  "lang": "fr",
+  "dir": "ltr",
+  "ogLocale": "fr_FR",
+  "languageName": "Français",
+  "meta": {
+    "title": "FightWake : réveil pour les combats UFC et MMA sur Android",
+    "description": "Réveillez-vous juste avant le combat UFC à ne pas manquer. FightWake suit la carte en direct et sonne quand votre combat approche. Aucun spoiler.",
+    "ogImageAlt": "FightWake : dormez pendant les préliminaires, réveillez-vous pour votre combat."
+  },
+  "nav": {
+    "skip": "Aller au contenu",
+    "how": "Comment ça marche",
+    "compare": "Gratuit ou Pro",
+    "faq": "Questions",
+    "language": "Langue"
+  },
+  "play": {
+    "getItOn": "Disponible sur",
+    "label": "Télécharger FightWake sur Google Play"
+  },
+  "hero": {
+    "kicker": "Réveil pour les combats UFC et MMA sur Android",
+    "lineA": "Dormez pendant les préliminaires.",
+    "lineB": "Réveillez-vous pour votre combat.",
+    "lede": "FightWake suit les cartes de MMA en direct, combat par combat, et vous réveille juste avant celui que vous avez choisi. Aucun résultat, aucun spoiler.",
+    "secondary": "Comment ça marche",
+    "proof": ["Sonne en mode silencieux", "Sans spoiler", "Téléchargement gratuit"]
+  },
+  "phone": {
+    "label": "FightWake affichant une carte avec une alarme sur le combat principal",
+    "title": "Soirée de combats",
+    "live": "En direct",
+    "earlyPrelims": "Préliminaires anticipés",
+    "prelims": "Carte préliminaire",
+    "mainCard": "Carte principale",
+    "done": "Terminé",
+    "rounds3": "3 rounds",
+    "mainEvent": "Combat principal · 5 rounds",
+    "bantamweight": "Poids coq",
+    "lightweight": "Poids léger",
+    "welterweight": "Poids mi-moyen",
+    "alarm": "Alarme · un combat avant",
+    "status": "Alarme réglée. Bonne nuit."
+  },
+  "how": {
+    "title": "Comment ça marche",
+    "intro": "Les cartes s'éternisent et personne ne sait quand le combat principal commencera. FightWake suit la carte à votre place.",
+    "steps": [
+      { "title": "Choisissez un combat", "body": "Ouvrez une carte à venir et touchez le combat que vous voulez voir." },
+      { "title": "Choisissez le moment", "body": "Réveil au début du combat, à l'entrée des combattants ou un combat avant." },
+      { "title": "Allez dormir", "body": "On suit la carte en direct et on vous réveille à temps, que les combats précédents finissent vite ou aillent à la décision." }
+    ]
+  },
+  "features": {
+    "title": "Pensé pour les combats en pleine nuit",
+    "pro": "Pro",
+    "all": "Gratuit et Pro",
+    "items": [
+      { "tier": "pro", "title": "Une vraie alarme", "body": "Une alarme plein écran qui sonne en mode silencieux et Ne pas déranger, même téléphone verrouillé." },
+      { "tier": "all", "title": "Aucun spoiler", "body": "Vous ne voyez jamais de résultat. Regardez le combat en direct ou en replay sans savoir qui a gagné." },
+      { "tier": "pro", "title": "Alarme de secours", "body": "Si votre téléphone perd le réseau pendant la nuit, une alarme de secours sonne à l'heure estimée." },
+      { "tier": "all", "title": "Suit la carte en direct", "body": "Finish rapide, décision ou combat annulé : votre alarme s'adapte. Si votre combat est annulé, on vous prévient." },
+      { "tier": "all", "title": "Notifications gratuites", "body": "Une notification au début de n'importe quel combat, combat principal compris, sur toutes les cartes." },
+      { "tier": "all", "title": "Cinq langues", "body": "Français, anglais, espagnol, russe et hébreu. Les noms des combattants restent ceux que vous connaissez." }
+    ]
+  },
+  "compare": {
+    "title": "Gratuit ou Pro",
+    "intro": "Des notifications gratuites pour chaque combat. Pro ajoute une vraie alarme de réveil.",
+    "free": "Gratuit",
+    "pro": "Pro",
+    "rows": [
+      ["Comment vous êtes réveillé", "Notification", "Alarme plein écran"],
+      ["Quand vous êtes prévenu", "Au début du combat", "Au début, à l'entrée des combattants ou un combat avant"],
+      ["Sonne en mode silencieux", "Non", "Oui"],
+      ["Alarme de secours hors connexion", "Non", "Oui"],
+      ["Événements", "Illimité", "Illimité"]
+    ],
+    "plans": "Offres Pro",
+    "eventPass": "Pass événement",
+    "eventPassBody": "Alarmes Pro pour tous les combats d'une carte.",
+    "annual": "Annuel",
+    "monthly": "Mensuel",
+    "lifetime": "À vie",
+    "lifetimeBody": "Un seul paiement, Pro pour toujours.",
+    "perYear": "par an",
+    "perMonth": "par mois",
+    "oneTime": "paiement unique"
+  },
+  "faq": {
+    "title": "Questions",
+    "items": [
+      { "q": "À quelle heure commence le combat principal de l'UFC ?", "a": "Personne ne peut le dire avec précision. Le combat principal commence quand tous les combats précédents sont terminés : une soirée de finish rapides peut l'avancer d'une heure, une soirée de décisions peut le retarder. FightWake suit la carte en direct et vous réveille selon ce qui se passe vraiment." },
+      { "q": "Comment me réveiller pour un combat UFC sans voir les résultats ?", "a": "Réglez une alarme sur le combat dans FightWake. L'application suit seulement quel combat est en cours, jamais qui a gagné. Vous pouvez donc vous réveiller et regarder sans spoiler." },
+      { "q": "L'alarme sonne-t-elle si mon téléphone est en mode silencieux ?", "a": "Les alarmes Pro sonnent en mode silencieux et Ne pas déranger. Les notifications gratuites suivent les réglages de son du téléphone et peuvent arriver un peu en retard s'il est en veille." },
+      { "q": "Et si le combat avant le mien se termine plus tôt ?", "a": "Votre alarme suit la carte. Si vous avez choisi un combat avant, elle sonne dès que ce combat se termine, qu'il ait duré 30 secondes ou soit allé à la décision." },
+      { "q": "FightWake est-il gratuit ?", "a": "Oui. Les notifications sont gratuites et illimitées sur tous les combats. Pro ajoute l'alarme plein écran, et un pass événement la débloque pour une seule carte." },
+      { "q": "Quels événements sont couverts ?", "a": "Les événements UFC, y compris les numérotés et les Fight Night." },
+      { "q": "Ça marche sur iPhone ?", "a": "Pas encore. FightWake est disponible uniquement sur Android pour l'instant." }
+    ]
+  },
+  "final": {
+    "title": "Au prochain gala, dormez tranquille.",
+    "body": "Réglez l'alarme, fermez les yeux, on vous réveille pour le combat."
+  },
+  "footer": {
+    "disclaimer": "FightWake n'est ni affilié à l'UFC ou à une autre organisation, ni approuvé par elles.",
+    "privacy": "Politique de confidentialité",
+    "contact": "Contact"
+  }
+}

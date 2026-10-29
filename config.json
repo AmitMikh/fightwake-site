@@ -1,0 +1,15 @@
+{
+  "baseUrl": "https://amitmikh.github.io/fightwake-site",
+  "playUrl": "https://play.google.com/store/apps/details?id=com.fightwake.app",
+  "contactEmail": null,
+  "prices": null,
+  "languages": [
+    "en",
+    "es",
+    "fr",
+    "ru",
+    "he"
+  ],
+  "defaultLanguage": "en",
+  "googleSiteVerification": null
+}
